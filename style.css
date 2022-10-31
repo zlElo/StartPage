@@ -1,0 +1,27 @@
+#gif {
+    object-position: 50px 30px;
+}
+
+body {
+    background-color: #003140;
+}
+
+
+#search input[type=text] {
+    padding: 10px 170px;
+    margin: 0;
+    box-sizing: border-box;
+    box-shadow: 0px 5px 0px #00b2df
+}
+
+#search {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+#header {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
